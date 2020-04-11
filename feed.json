@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cit&#x27;Light",
+    "description": "",
+    "home_page_url": "https://revue-stasis.github.io/gh-pages",
+    "feed_url": "https://revue-stasis.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cit&#x27;Light"
+    },
+    "items": [
+        {
+            "id": "https://revue-stasis.github.io/gh-pages/test.html",
+            "url": "https://revue-stasis.github.io/gh-pages/test.html",
+            "title": "Test",
+            "summary": "Test",
+            "content_html": "Test",
+            "author": {
+                "name": "Cit&#x27;Light"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-11T11:15:24+02:00",
+            "date_modified": "2020-04-11T11:15:24+02:00"
+        }
+    ]
+}

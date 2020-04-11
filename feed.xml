@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cit&#x27;Light</title>
+    <link href="https://revue-stasis.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://revue-stasis.github.io/gh-pages" />
+    <updated>2020-04-11T11:17:32+02:00</updated>
+    <author>
+        <name>Cit&#x27;Light</name>
+    </author>
+    <id>https://revue-stasis.github.io/gh-pages</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Cit&#x27;Light</name>
+        </author>
+        <link href="https://revue-stasis.github.io/gh-pages/test.html"/>
+        <id>https://revue-stasis.github.io/gh-pages/test.html</id>
+
+        <updated>2020-04-11T11:15:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Test
+            ]]>
+        </content>
+    </entry>
+</feed>
